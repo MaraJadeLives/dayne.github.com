@@ -6,7 +6,7 @@ layout: post
 
 <p class='#meta'>{{page.date}}</p>
 
-The last 10 years of home computers have been slow tweaking upgrades from mostly
+The last 10 years of home computers have been slow tweaking upgrades, mostly from
 spare parts.  Here is my home workstation 2020 build with all new core components.
 
 ### May 2020 Computer Build
@@ -30,7 +30,7 @@ Win10 box. 3 monitors (one G-SYNC).
   * DDR4-3600 16GBx2
   * CL16-19-19-39 1.35V
 * Video Card:
-  * `ASUS GEFORCE RTX 2070 super`
+  * `ASUS GEFORCE RTX 2070 Super`
   * 8GB GDDR6 video memory
   * 1x HDMI 2.0bx1 / 3x DisplayPort 1.4
 * OS Drive: 
